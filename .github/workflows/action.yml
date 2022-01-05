@@ -12,5 +12,6 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Your GitHub token, specifically made for Metrics
+          # For setup, see: https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/setup/action/setup.md
+          token: ${{ secrets.METRICS_GITHUB_TOKEN }}
