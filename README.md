@@ -1,4 +1,4 @@
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+![Metrics](https://github.com/thorwhalen/thorwhalen/blob/main/github-metrics.svg)
 
 <!--
 Metrics made with https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/setup/action/setup.md
