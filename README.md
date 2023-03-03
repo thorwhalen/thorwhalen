@@ -1,3 +1,5 @@
+As of Feb 2022:
+
 ![Metrics](https://github.com/thorwhalen/thorwhalen/blob/main/github-metrics.svg)
 
 <!--
