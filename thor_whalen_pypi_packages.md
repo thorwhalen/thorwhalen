@@ -1,0 +1,188 @@
+- [isee](https://pypi.org/project/isee/): Python continuous integration (CI) support tools.
+- [tested](https://pypi.org/project/tested/): Python test utils
+- [i2](https://pypi.org/project/i2/): The middleware toolbox
+- [hfdol](https://pypi.org/project/hfdol/): Simple Mapping interface to HuggingFace
+- [aw](https://pypi.org/project/aw/): AI Agentic Workflows for data preparation and transformation
+- [config2py](https://pypi.org/project/config2py/): Simplified reading and writing configurations from various sources and formats
+- [wads](https://pypi.org/project/wads/): Tools for packaging and publishing to pypi for those who just don not want to deal with it
+- [hf](https://pypi.org/project/hf/): CLI extracted from the huggingface_hub library to interact with the Hugging Face Hub
+- [aw-agents](https://pypi.org/project/aw-agents/): AI agents for agentic workflows, deployable to multiple chatbot platforms
+- [cosmograph](https://pypi.org/project/cosmograph/): Visualize large-scale network graphs and machine learning embeddings
+- [theremin](https://pypi.org/project/theremin/): A video-to-sound theremin
+- [tapyoca](https://pypi.org/project/tapyoca/): A medley of things that got coded because there was an itch to do so
+- [py2store](https://pypi.org/project/py2store/): Tools to create simple and consistent interfaces to complicated and varied data sources.
+- [ef](https://pypi.org/project/ef/): Embeddings Flow -- Tools for workflows involving semantic embeddings
+- [haggle](https://pypi.org/project/haggle/): A facade to Kaggle data
+- [graze](https://pypi.org/project/graze/): Cache (a tiny part of) the internet
+- [dol](https://pypi.org/project/dol/): Base builtin tools make and transform data object layers (dols).
+- [linked](https://pypi.org/project/linked/): Create and transform graphs
+- [cosmodata](https://pypi.org/project/cosmodata/): A portal to data sources
+- [replize](https://pypi.org/project/replize/): Tools to create REPL interfaces
+- [astate](https://pypi.org/project/astate/): Various AST utils
+- [atypes](https://pypi.org/project/atypes/): Abstractions for signal machine learning.
+- [epythet](https://pypi.org/project/epythet/): Tools for documentation and packaging
+- [xdol](https://pypi.org/project/xdol/): Extended Data Object Layers - dol-based tools
+- [rh](https://pypi.org/project/rh/): Reactive Html Framework - Transform variable relationships into interactive web apps
+- [tonal](https://pypi.org/project/tonal/): Tools for music analysis and generation
+- [xv](https://pypi.org/project/xv/): Access to arxiv data
+- [dropboxdol](https://pypi.org/project/dropboxdol/): dropbox with a simple (dict-like or list-like) interface
+- [dn](https://pypi.org/project/dn/): Tools for markdown parsing and generation
+- [tabled](https://pypi.org/project/tabled/): A (key-value) data-object-layer to get (pandas) tables from a variety of sources with ease
+- [hired](https://pypi.org/project/hired/): Streamline the job application process for job seekers - with AI obvs!
+- [oa](https://pypi.org/project/oa/): Python interface to OpenAI
+- [aix](https://pypi.org/project/aix/): Artificial Intelligence eXtensions
+- [mixing](https://pypi.org/project/mixing/): Tools for video and audio editing
+- [imbed](https://pypi.org/project/imbed/): Tools to work with embeddings
+- [pdfdol](https://pypi.org/project/pdfdol/): Data Object Layer for PDF data
+- [ju](https://pypi.org/project/ju/): JSON schema Utils
+- [msword](https://pypi.org/project/msword/): Simple mapping view to docx (Word Doc) elements
+- [larder](https://pypi.org/project/larder/): Connect functions to stores - fetch inputs & persist outputs
+- [contaix](https://pypi.org/project/contaix/): Tools to make contexts for AI
+- [dagapp](https://pypi.org/project/dagapp/): Making apps from DAGs by just snapping your fingers
+- [ps](https://pypi.org/project/ps/): Call any available system command from python
+- [keyboardstream2py](https://pypi.org/project/keyboardstream2py/): stream2py interface for keyboard inputs
+- [flaskstream2py](https://pypi.org/project/flaskstream2py/): stream2py interface to flask
+- [pchealthstream2py](https://pypi.org/project/pchealthstream2py/): stream2py interface to pc health
+- [dynamodol](https://pypi.org/project/dynamodol/): dynamodb (through boto3) with a simple (dict-like or list-like) interface
+- [azuredol](https://pypi.org/project/azuredol/): Azure Storage Data Object Layer
+- [mongodol](https://pypi.org/project/mongodol/): MongoDB Data Object Layer
+- [verb](https://pypi.org/project/verb/): Easy make mini-languages to do python things.
+- [strand](https://pypi.org/project/strand/): Easy creation of non-blocking tasks
+- [extrude](https://pypi.org/project/extrude/): Tool to run a composite web application to easily interact with python functions
+- [pyckup](https://pypi.org/project/pyckup/): Tools to provide easy access to prepared data to data scientists that can't be asked.
+- [http2py](https://pypi.org/project/http2py/): Tools to create python binders to http web services.
+- [embody](https://pypi.org/project/embody/): Generate templated objects
+- [front](https://pypi.org/project/front/): Getting from python objects to UIs exposing them
+- [owned](https://pypi.org/project/owned/): A little tool to manage secrets
+- [lexis](https://pypi.org/project/lexis/): Wordnet wrapper - Easy access to words and their relationships
+- [lkj](https://pypi.org/project/lkj/): A dump of homeless useful utils
+- [titbit](https://pypi.org/project/titbit/): A place to dump might-be-useful-again code as an alternative of leaving in a notebook where it will never be found again
+- [s3dol](https://pypi.org/project/s3dol/): s3 (through boto3) with a simple (dict-like or list-like) interface
+- [posted](https://pypi.org/project/posted/): Interfacing with message-broker functionality
+- [streamlitfront](https://pypi.org/project/streamlitfront/): Generate streamlit frontends from python functions
+- [vd](https://pypi.org/project/vd/): Value Dispatch: Wire Python functions to stores for seamless input/output handling.
+- [kroki](https://pypi.org/project/kroki/): Access kroki from python
+- [mood](https://pypi.org/project/mood/): Investigations in financial sentiment analysis
+- [sshdol](https://pypi.org/project/sshdol/): Easy dict-like access to server files
+- [ho](https://pypi.org/project/ho/): Http Objects - Tools to make python interfaces to http services
+- [dol-cookbook](https://pypi.org/project/dol-cookbook/): recipes for dol tools
+- [scraped](https://pypi.org/project/scraped/): Tools for scraping
+- [plunk](https://pypi.org/project/plunk/): A Python utility hub for those homeless code snippets
+- [hum](https://pypi.org/project/hum/): A python synthesizer for creating and manipulating audio signals.
+- [au](https://pypi.org/project/au/): Async Utils
+- [sung](https://pypi.org/project/sung/): Music data access
+- [shaded](https://pypi.org/project/shaded/): Tools for linear dimension reduction
+- [taped](https://pypi.org/project/taped/): Python's serene audio accessor
+- [qo](https://pypi.org/project/qo/): Quick access to code favorites
+- [viable](https://pypi.org/project/viable/): Diagnose source data for sound recognition ML
+- [ohmic](https://pypi.org/project/ohmic/): Python tools for Electric Power Quality
+- [linkup](https://pypi.org/project/linkup/): Making mappings operable.
+- [hubcap](https://pypi.org/project/hubcap/): A py2store (i.e. dict-like) interface to github
+- [su](https://pypi.org/project/su/): Speech Utils
+- [meshed](https://pypi.org/project/meshed/): Link functions up into callable objects
+- [cw](https://pypi.org/project/cw/): Command line Wizard - Transform your python functions into CLI tools
+- [yp](https://pypi.org/project/yp/): A mapping view to pypi projects
+- [odus](https://pypi.org/project/odus/): Tools to provide easy access to prepared data to data scientists that cannot be asked.
+- [loopyng](https://pypi.org/project/loopyng/): Generate synthetic signals for ML pipelines
+- [grub](https://pypi.org/project/grub/): A ridiculously simple search engine factory
+- [recode](https://pypi.org/project/recode/): Tools to make codecs for time-series serialization and deserialization.
+- [voxy](https://pypi.org/project/voxy/): Facade for voice cloning and speech synthesis
+- [hg](https://pypi.org/project/hg/): Homogenous Groups (Duplication detection, Frequent Itemsets, etc.)
+- [scoopy](https://pypi.org/project/scoopy/): Python interface to live news
+- [mv](https://pypi.org/project/mv/): Live video ML pipeline toolbox
+- [cosmograph-widget](https://pypi.org/project/cosmograph-widget/): None
+- [redisposted](https://pypi.org/project/redisposted/): Concrete implementation of posted for Redis
+- [invest](https://pypi.org/project/invest/): Python access to structure stock market information
+- [skill](https://pypi.org/project/skill/): Extract code exercises from code itself
+- [idiom](https://pypi.org/project/idiom/): Access and operations with word2vec data
+- [poclab](https://pypi.org/project/poclab/): A place for POCs to be born and toddler around until they can walk on their own
+- [guided](https://pypi.org/project/guided/): Getting from diagramming to programming
+- [jy](https://pypi.org/project/jy/): Tools to control JS from Python (jy for Js pY or Js python proxY)
+- [focal](https://pypi.org/project/focal/): Data Access Objects for local files
+- [guise](https://pypi.org/project/guise/): Semantic fingerprinting
+- [ug](https://pypi.org/project/ug/): Utils using Google API
+- [oplot](https://pypi.org/project/oplot/): A medley of plotting tools for data analysis
+- [py2c](https://pypi.org/project/py2c/): Tools to bridge python and C
+- [creek](https://pypi.org/project/creek/): Simple streams facade
+- [theramin](https://pypi.org/project/theramin/): A video-to-sound theramin
+- [sonification](https://pypi.org/project/sonification/): Map data to sound allowing it to be interpreted it in an auditory manner
+- [brand](https://pypi.org/project/brand/): Finding available domain names
+- [smart-cv](https://pypi.org/project/smart-cv/): Tools to retrieve and check information and generate information based on CVs
+- [kafkaposted](https://pypi.org/project/kafkaposted/): Concrete implementation of posted for Kafka
+- [raglab](https://pypi.org/project/raglab/): Backend of a system to explore RAG operations
+- [sqldol](https://pypi.org/project/sqldol/): sql (through sqlalchemy) with a simple (dict-like or list-like) interface
+- [py2http](https://pypi.org/project/py2http/): Declarative HTTP service entry point.
+- [hear](https://pypi.org/project/hear/): Easy access to audio data
+- [pipoke](https://pypi.org/project/pipoke/): Utils to acquire stuff from pypi and interrogate it
+- [chromadol](https://pypi.org/project/chromadol/): Data Object Layer for ChromaDB
+- [saying](https://pypi.org/project/saying/): AI-enabled quotes search
+- [equate](https://pypi.org/project/equate/): "This is a package with tools for matching things. Dirty things like language, files in your file system, socks and whistles."
+- [slang](https://pypi.org/project/slang/): A structural approach to signal ML
+- [tec](https://pypi.org/project/tec/): Tools to inspect python objects
+- [unbox](https://pypi.org/project/unbox/): Finding imports in code
+- [doodad](https://pypi.org/project/doodad/): Making access to names easier
+- [py2json](https://pypi.org/project/py2json/): Tools for json serialization of python objects
+- [audiostream2py](https://pypi.org/project/audiostream2py/): stream2py interface for audio
+- [stogui](https://pypi.org/project/stogui/): There is a bit of an air of mystery around this project...
+- [allude](https://pypi.org/project/allude/): Building precise functionality from vague specifications
+- [lined](https://pypi.org/project/lined/): Building simple pipelines simply.
+- [stream2py](https://pypi.org/project/stream2py/): Bring data streams to python with ease
+- [py2api](https://pypi.org/project/py2api/): Declarative API entry point
+- [know](https://pypi.org/project/know/): Funnel live streams of data into storage and other processes
+- [oui](https://pypi.org/project/oui/): There is a bit of an air of mystery around this project...
+- [fitted](https://pypi.org/project/fitted/): Machine learning tools
+- [slink](https://pypi.org/project/slink/): Generate sequences
+- [wealth](https://pypi.org/project/wealth/): Visualizing financial relations and evolutions
+- [codify](https://pypi.org/project/codify/): Generate codes
+- [moji](https://pypi.org/project/moji/): Developing a full emoji language
+- [swipe](https://pypi.org/project/swipe/): Swipe through data once with a comb that will pick up the points you're looking for.
+- [hm](https://pypi.org/project/hm/): Mnemonic tools
+- [manual](https://pypi.org/project/manual/): Python interfaces to system calls
+- [trait](https://pypi.org/project/trait/): ML featurizer and transformer tools
+- [opyratorfront](https://pypi.org/project/opyratorfront/): Generate opyrator UIs and webservices and docker containers from python functions
+- [hedger](https://pypi.org/project/hedger/): Semantic Finance
+- [funds](https://pypi.org/project/funds/): Historical finance data data and caching
+- [likert](https://pypi.org/project/likert/): Tools to analyze Likert scale data
+- [spyn](https://pypi.org/project/spyn/): Tools to transform data into "model-less" operable inference objects
+- [guide](https://pypi.org/project/guide/): Simple object to navigate complex python objects
+- [gurgle](https://pypi.org/project/gurgle/): Wrappers to extend ML processing components (perform online/mini-batch learning - track residues - store data - track drift etc.)
+- [forged](https://pypi.org/project/forged/): Tools for data generation
+- [videostream2py](https://pypi.org/project/videostream2py/): stream2py interface to video
+- [plcstream2py](https://pypi.org/project/plcstream2py/): stream2py interface to PLC data
+- [test2doc](https://pypi.org/project/test2doc/): Generate documentation from tests
+- [udos](https://pypi.org/project/udos/): Universal Dataset Open Standard
+- [dexis](https://pypi.org/project/dexis/): Data Lexis
+- [viral](https://pypi.org/project/viral/): Acquiring and analyzing covid-19 (coronavirus) statistics data
+- [git2py](https://pypi.org/project/git2py/): Mapping git operation to a dict-like Data Object Layer
+- [redisdol](https://pypi.org/project/redisdol/): redis with a simple (dict-like or list-like) interface
+- [odbcdol](https://pypi.org/project/odbcdol/): odbc (through pyodbc) with a simple (dict-like or list-like) interface
+- [aiofiledol](https://pypi.org/project/aiofiledol/): aiofile (async filesys operations) with a simple (dict-like or list-like) interface
+- [arangodol](https://pypi.org/project/arangodol/): ArangoDB with a simple (dict-like or list-like) interface
+- [couchdol](https://pypi.org/project/couchdol/): couchdb with a simple (dict-like or list-like) interface
+- [ftpdol](https://pypi.org/project/ftpdol/): ftp with a simple (dict-like or list-like) interface
+- [pydrivedol](https://pypi.org/project/pydrivedol/): pydrive (googledrive) with a simple (dict-like or list-like) interface
+- [oldpy2store](https://pypi.org/project/oldpy2store/): Old version of py2store
+- [vax](https://pypi.org/project/vax/): Finding covid vaccine appointment slots
+- [sheet](https://pypi.org/project/sheet/): Tools to extract content from ipython (jupyter) notebooks
+- [garble](https://pypi.org/project/garble/): Make bags of words and do stuff with them for make benefit
+- [umpyre](https://pypi.org/project/umpyre/): Code analysis and quality metrics
+- [qh](https://pypi.org/project/qh/): Quick Http web-service construction
+- [peruse](https://pypi.org/project/peruse/): Explore a waveform with slang
+- [bumph](https://pypi.org/project/bumph/): Simple mapping view to docx (Word Doc) elements
+- [c2py](https://pypi.org/project/c2py/): Create python wrappers that call c functions (without the headaches).
+- [owner](https://pypi.org/project/owner/): Tools to prove ownership of content
+- [lag](https://pypi.org/project/lag/): Performance gauging tools
+- [py2dash](https://pypi.org/project/py2dash/): Tools to produce dash (plot.ly) interfaces from existing python functionality
+- [odat](https://pypi.org/project/odat/): Getting sound/vibration data simply
+- [babe](https://pypi.org/project/babe/): Data access and analysis of baby names statistics
+- [elections](https://pypi.org/project/elections/): There's a bit of an air of mystery around this project...
+- [laugh](https://pypi.org/project/laugh/): Access jokes through python
+- [cult](https://pypi.org/project/cult/): Religious texts search engine
+- [ooq](https://pypi.org/project/ooq/): Quick access to code favorites
+- [oq](https://pypi.org/project/oq/): Quick access to code favorites
+- [splatter](https://pypi.org/project/splatter/): Vizualizing multidimensional points in a pleasing and informative way
+- [dacc](https://pypi.org/project/dacc/): A declarative approache to data access object construction
+- [on](https://pypi.org/project/on/): Tools to make data access layers
+- [zu](https://pypi.org/project/zu/): Useful Layers for Data Access
+- [aspyre](https://pypi.org/project/aspyre/): There's a bit of an air of mystery around this project...
+- [i2i](https://pypi.org/project/i2i/): Tools to build adapters for one interface to talk to another
